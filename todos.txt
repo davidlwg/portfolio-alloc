@@ -1,0 +1,5 @@
+1. Turn into a flask application
+https://towardsdatascience.com/the-right-way-to-build-an-api-with-python-cd08ab285f8f
+2. Deploy using Google Cloud Platform
+https://towardsdatascience.com/how-to-deploy-a-flask-api-8d54dd8d8b8a
+3. Use Zapper Fi API to automatically pull in account balances
